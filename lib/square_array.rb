@@ -1,5 +1,5 @@
 def square_array(array)
   while array[counter] do
-    puts 
+    square_array =  
   end
 end
