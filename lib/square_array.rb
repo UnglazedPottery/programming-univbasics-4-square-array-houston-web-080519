@@ -1,6 +1,6 @@
-counter = 0
 
 def square_array(array)
+  counter = 0
   while array[counter] do
     num = array[counter]
     squared_array.push(num * num)  
